@@ -1,0 +1,7 @@
+.contenedor {
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 10x solid #ccc;
+    box-sizing: border-box;
+}
